@@ -21,6 +21,7 @@ public class Counter {
     public String toString() {
         return "Counter " + counterNumber + ": \n" +
                 "Instance Count = " + instanceCount + "\n" +
-                "Total Count = " + totalCount;
+                "Total Count = " + totalCount + "\n";
     }
+
 }
